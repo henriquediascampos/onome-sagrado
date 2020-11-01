@@ -1,0 +1,12 @@
+{
+  "name": "onome-sagrado",
+  "displayName": "onome-sagrado",
+  "expo": {
+    "name": "onome-sagrado",
+    "slug": "onome-sagrado",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
